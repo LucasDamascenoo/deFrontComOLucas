@@ -1,16 +1,15 @@
+/* Viewport units
 
-.pai {
-width: 300px;
-height: 300px;
-background: red;
+vh - view height = % da tela
+vw - view widgth = % da tela 
 
+*/
+
+.hero {
+  background: red;
+  width: 100vh;
+  height: 100vh;
 }
 
-
-
-.filho {
-  width: 50%;
-  height: 50%;
-  background: blue;
-  
+.about {
 }
